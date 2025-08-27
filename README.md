@@ -1,6 +1,6 @@
 
-# 💫 About Me:
-Passionate about building scalable web applications and solving real-world problems with code.<br>Passionate about everything TECH and CARS of course.<br>All while having fun with code.<br>God-speed coding!!
+# 💫 Hi, Im Zaki:
+Passionate about building scalable web applications and solving real-world problems with code.<br>Passionate about everything TECH and CARS of course.<br> Ialso love creating things from editing videos to creating fantasy worlds and stories.<br>All while having fun with code.<br>God-speed coding!!
 
 
 ## 🌐 Socials:
